@@ -50,3 +50,8 @@ python is great.
 ### Image test
 
 ![Ginzan onsen]({{site.url}}/images/2023-10-20-hello-blog/ginzan_onsen_01.jpg){: .image-width-half}
+
+### 블로그 구축 참고
+
+1. [램프바바의 개발노트 - 사이드바 메뉴 설정](https://apit.dev/jekyll/minimal-mistakes-side-bar/)
+2. [공부하는 식빵맘 - 블로그 카테고리 만들기](https://ansohxxn.github.io/blog/category/)
