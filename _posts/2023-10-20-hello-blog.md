@@ -2,11 +2,14 @@
 title:  "Welcome to my blog!"
 categories: general
 tag: [python, test]
-toc: true
 author_profile: false
 sidebar:
     nav: "docs"
 search: false
+redirect_from:
+    - /main/hello-blog
+    - /test/hello-blog
+use_math: true
 ---
 ## Hello world!
 
@@ -30,8 +33,20 @@ import numpy as np
 var = np.arange(1, 20)
 ```
 
+### LaTeX 수식 예제 with mathjax
+
+$n^2 = n \times n$
+
 ## Hello python!
 
 ### How to start with python?
 
 python is great.
+
+### Korean test
+
+한국어도 한번 써볼게요.
+
+### Image test
+
+![Ginzan onsen]({{site.url}}/images/2023-10-20-hello-blog/ginzan_onsen_01.jpg){: .image-width-half}
