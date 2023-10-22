@@ -3,6 +3,10 @@ title:  "Welcome to my blog!"
 categories: general
 tag: [python, test]
 toc: true
+author_profile: false
+sidebar:
+    nav: "docs"
+search: false
 ---
 ## Hello world!
 
@@ -28,6 +32,6 @@ var = np.arange(1, 20)
 
 ## Hello python!
 
-### How start with python?
+### How to start with python?
 
 python is great.
